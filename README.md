@@ -1,4 +1,8 @@
-PyXBMCt
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+
+# Rogue Designs #
+
+**PyXBMCt**
 =======
 
 This repository contains a demo add-on for Kodi (XBMC) PyXBMCt framework.
